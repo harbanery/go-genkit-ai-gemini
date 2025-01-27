@@ -1,0 +1,5 @@
+*\.genkit
+
+*.env
+
+genkit.go
